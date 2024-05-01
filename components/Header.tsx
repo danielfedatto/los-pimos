@@ -1,10 +1,8 @@
-import LemonIcon from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/lemon-2.tsx";
-
 type Props = {
   active: string;
 };
 
-export default function Header({ active }: Props) {
+export function Header({ active }: Readonly<Props>) {
   const menus = [
     { name: "Home", href: "/" },
     { name: "Lançamentos", href: "/lancamentos" },
@@ -16,10 +14,10 @@ export default function Header({ active }: Props) {
 
   return (
     <header class="bg-white w-full max-w-screen-full flex flex-col md:flex-row gap-4">
-      <div className="w-full bg-gradient-to-r from-primary to-secondary">
+      <div class="w-full bg-gradient-to-r from-primary to-secondary">
         <ul class="container mx-auto flex items-center gap-6 p-4">  
-        {menus.map((menu) => (
-          <li>
+        {menus.map((menu, index) => (
+          <li key={index}>
             <a
               href={menu.href}
               class={"text-white hover:text-tertiary transition-colors hover:ease-linear py-1 uppercase" +

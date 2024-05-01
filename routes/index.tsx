@@ -1,15 +1,14 @@
 import { PageProps } from "$fresh/server.ts";
 import { Header } from "@/components/Header.tsx";
 import { InfoBar } from "@/components/infoBar.tsx";
-import Carousel from "@/components/Carousel.tsx";
+import Carousel from "@/islands/Carousel.tsx";
 
 export default function Home(ctx: PageProps) {
-  
   return (
     <div>
       <InfoBar/>
       <Header active=''/>
-      <Carousel />
+      <Carousel currentSlide={0} showArrows={false}/>
       <div
         class="w-11/12 max-w-5xl mx-auto mt-28"
         aria-labelledby="information-heading"

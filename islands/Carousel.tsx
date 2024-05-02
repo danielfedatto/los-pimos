@@ -5,18 +5,18 @@ import IconCircleChevronsRight from "https://deno.land/x/tabler_icons_tsx@0.0.6/
 import IconCircleChevronsLeft from "https://deno.land/x/tabler_icons_tsx@0.0.6/tsx/circle-chevrons-left.tsx";
 
 const SLIDE_DATA = [
-{
-    color: "bg-white",
-    url: asset("/bannerOne.png"),
-},
-{
-    color: "bg-white",
-    url: asset("/bannerTwo.png"),
-},
-{
-    color: "bg-white",
-    url: asset("/bannerThree.png"),
-},
+    {
+        color: "bg-white",
+        url: asset("/bannerOne.png"),
+    },
+    {
+        color: "bg-white",
+        url: asset("/bannerTwo.png"),
+    },
+    {
+        color: "bg-white",
+        url: asset("/bannerThree.png"),
+    },
 ];
 
 type SlideProps = {

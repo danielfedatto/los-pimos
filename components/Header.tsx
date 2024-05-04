@@ -38,7 +38,7 @@ export function Header({ active }: Readonly<Props>) {
             <div class="w-1/4 actions flex gap-4 justify-between">
               <div class="userActions w-content group flex flex-nowrap gap-2">
                 <IconUserSquareRounded size={32} class="text-tertiary self-center"/>
-                <a href="/login" class="text-black group-hover:text-secondary transition-colors self-center font-semibold underline">
+                <a href="/login" class="text-black group-hover:text-secondary transition-colors self-center font-semibold">
                   Entre ou Cadastre-se
                 </a>
               </div>

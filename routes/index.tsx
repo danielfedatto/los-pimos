@@ -2,6 +2,7 @@ import { PageProps } from "$fresh/server.ts";
 import { Header } from "@/components/Header.tsx";
 import { InfoBar } from "@/components/infoBar.tsx";
 import Carousel from "@/islands/Carousel.tsx";
+import Footer from "@/components/Footer.tsx";
 
 export default function Home(ctx: PageProps) {
   return (
@@ -22,6 +23,7 @@ export default function Home(ctx: PageProps) {
           {/* {products.map((product) => <ProductCard product={product} />)} */}
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

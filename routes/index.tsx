@@ -1,8 +1,9 @@
 import { PageProps } from "$fresh/server.ts";
-import { Header } from "@/components/Header.tsx";
-import { InfoBar } from "@/components/infoBar.tsx";
+import { Header } from "../components/Atoms/Header.tsx";
+import { InfoBar } from "../components/Atoms/infoBar.tsx";
 import Carousel from "@/islands/Carousel.tsx";
-import Footer from "@/components/Footer.tsx";
+import Footer from "../components/Atoms/Footer.tsx";
+import OfertaEspecial from "@/components/Organisms/OfertaEspecial.tsx";
 
 export default function Home(ctx: PageProps) {
   return (
@@ -23,6 +24,7 @@ export default function Home(ctx: PageProps) {
           {/* {products.map((product) => <ProductCard product={product} />)} */}
         </div>
       </div>
+      <OfertaEspecial/>
       <Footer />
     </div>
   );

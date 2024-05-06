@@ -206,5 +206,293 @@
         "preco_com_promocao": 69.90,
         "image": "produto_26.png",
         "category": "menina"
+    },
+    {
+        "id": 1,
+        "name": "Vestido de Alça",
+        "price": 79.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menina_1.png",
+        "category": "meninas"
+    },
+    {
+        "id": 2,
+        "name": "Vestido com Manga",
+        "price": 79.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menina_2.png",
+        "category": "meninas"
+    },
+    {
+        "id": 3,
+        "name": "Vestido Azul",
+        "price": 79.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menina_3.png",
+        "category": "meninas"
+    },
+    {
+        "id": 4,
+        "name": "Moda Praia",
+        "price": 84.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menina_4.png",
+        "category": "meninas"
+    },
+    {
+        "id": 5,
+        "name": "Conjunto Mochinha",
+        "price": 52.00,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menina_5.png",
+        "category": "meninas"
+    },
+    {
+        "id": 6,
+        "name": "Camiseta Minimalista",
+        "price": 54.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menina_6.png",
+        "category": "meninas"
+    },
+    {
+        "id": 7,
+        "name": "Macaquinho / Romper",
+        "price": 44.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menina_7.png",
+        "category": "meninas"
+    },
+    {
+        "id": 8,
+        "name": "Blusas Caneladas",
+        "price": 39.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menina_8.png",
+        "category": "meninas"
+    },
+    {
+        "id": 9,
+        "name": "Corta Vento Impermeável",
+        "price": 59.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menina_9.png",
+        "category": "meninas"
+    },
+    {
+        "id": 1,
+        "name": "Conjunto Canelado",
+        "price": 70.00,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menino_1.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 2,
+        "name": "Corta Vento",
+        "price": 90.00,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menino_2.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 3,
+        "name": "Blusa de Manga",
+        "price": 39.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menino_3.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 4,
+        "name": "Conjunto Menino",
+        "price": 74.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menino_4.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 5,
+        "name": "Jaqueta Puffer",
+        "price": 89.00,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menino_5.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 6,
+        "name": "Jaqueta Boucle  Soft",
+        "price": 54.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menino_6.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 7,
+        "name": "Conjunto Menino",
+        "price": 49.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_menino_7.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 8,
+        "name": "Conjunto Preto",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menino_8.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 9,
+        "name": "Conjunto Polo",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_menino_9.png.png",
+        "category": "meninos"
+    },
+    {
+        "id": 1,
+        "name": "Kit 3 peças",
+        "price": 64.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_bebes_1.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 2,
+        "name": "Kit 3 Peças Marisol Cotton",
+        "price": 54.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_bebes_2.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 3,
+        "name": "Macacão Fleece Peluciado",
+        "price": 69.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_bebes_3.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 4,
+        "name": "Conjunto Menina",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_bebes_4.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 5,
+        "name": "Conjunto Oncinha",
+        "price": 54.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_bebes_5.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 6,
+        "name": "Conjunto 3 Peças",
+        "price": 54.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_bebes_6.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 7,
+        "name": "Conjunto Menino",
+        "price": 49.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_bebes_7.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 8,
+        "name": "Conjunto Preto",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_bebes_8.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 9,
+        "name": "Conjunto Polo",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_bebes_9.png.png",
+        "category": "bebes"
+    },
+    {
+        "id": 1,
+        "name": "Casaco Xadrez",
+        "price": 79.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_lancamento_1.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 2,
+        "name": "Conjunto em Fleece",
+        "price": 74.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_lancamento_2.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 3,
+        "name": "Macacão Fleece Peluciado",
+        "price": 69.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_lancamento_3.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 4,
+        "name": "Pijama Peludo",
+        "price": 74.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_lancamento_4.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 5,
+        "name": "Conjunto Oncinha",
+        "price": 54.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_lancamento_5.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 6,
+        "name": "Conjunto 3 Peças",
+        "price": 54.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_lancamento_6.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 7,
+        "name": "Conjunto Menino",
+        "price": 49.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_lancamento_7.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 8,
+        "name": "Conjunto Preto",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_lancamento_8.png.png",
+        "category": "lancamentos"
+    },
+    {
+        "id": 9,
+        "name": "Conjunto Polo",
+        "price": 49.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_lancamento_9.png.png",
+        "category": "lancamentos"
     }
 ]

@@ -7,6 +7,6 @@ type Props = {
 
 export default function Shelf({ products, cards }: Readonly<Props>) {
     return (
-        <ProductCard products={products} cards={cards}/>
+        <ProductCard products={products} cards={cards} />
     );
 }

@@ -4,7 +4,7 @@ type Props = {
     data: Products[];
     cards: number;
 };
-export default function OfertaSasonal({ data, cards }: Readonly<Props>) {
+export default function OfertaSasonal({ data }: Readonly<Props>) {
     return (
         <section class="py-20">
                 <div className="container mx-auto flex items-center gap-20">

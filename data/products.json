@@ -1,0 +1,210 @@
+[
+    {
+        "id": 5,
+        "name": "Body Manga Longa Estampado",
+        "price": 29.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_1.png",
+        "category": "bebês"
+    },
+    {
+        "id": 6,
+        "name": "Conjunto de Vestido e Casaco de Tricô",
+        "price": 69.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_2.png",
+        "category": "menina"
+    },
+    {
+        "id": 7,
+        "name": "Macacão Jeans com Camiseta",
+        "price": 59.90,
+        "preco_com_promocao": 49.90,
+        "image": "produto_3.png",
+        "category": "menino"
+    },
+    {
+        "id": 8,
+        "name": "Vestido de Festa com Laço",
+        "price": 89.90,
+        "preco_com_promocao": 79.90,
+        "image": "produto_4.png",
+        "category": "menina"
+    },
+    {
+        "id": 9,
+        "name": "Conjunto de Moletom e Calça",
+        "price": 49.90,
+        "preco_com_promocao": 39.90,
+        "image": "produto_5.png",
+        "category": "bebês"
+    },
+    {
+        "id": 10,
+        "name": "Blusa de Manga Curta com Estampa",
+        "price": 19.90,
+        "preco_com_promocao": 14.90,
+        "image": "produto_6.png",
+        "category": "menina"
+    },
+    {
+        "id": 11,
+        "name": "Conjunto de Camiseta e Bermuda",
+        "price": 39.90,
+        "preco_com_promocao": 29.90,
+        "image": "produto_7.png",
+        "category": "menino"
+    },
+    {
+        "id": 12,
+        "name": "Macacão de Algodão Listrado",
+        "price": 34.90,
+        "preco_com_promocao": 29.90,
+        "image": "produto_8.png",
+        "category": "bebês"
+    },
+    {
+        "id": 13,
+        "name": "Vestido de Verão com Estampa de Frutas",
+        "price": 24.90,
+        "preco_com_promocao": 19.90,
+        "image": "produto_9.png",
+        "category": "menina"
+    },
+    {
+        "id": 14,
+        "name": "Conjunto de Body e Calça Jeans",
+        "price": 44.90,
+        "preco_com_promocao": 39.90,
+        "image": "produto_10.png",
+        "category": "bebês"
+    },
+    {
+        "id": 15,
+        "name": "Camiseta Polo com Bordado",
+        "price": 29.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_11.png",
+        "category": "menino"
+    },
+    {
+        "id": 16,
+        "name": "Macacão de Plush com Capuz",
+        "price": 54.90,
+        "preco_com_promocao": 49.90,
+        "image": "produto_12.png",
+        "category": "bebês"
+    },
+    {
+        "id": 17,
+        "name": "Vestido de Festa com Bordado Floral",
+        "price": 79.90,
+        "preco_com_promocao": 69.90,
+        "image": "produto_13.png",
+        "category": "menina"
+    },
+    {
+        "id": 18,
+        "name": "Conjunto de Camiseta e Calça Jogger",
+        "price": 39.90,
+        "preco_com_promocao": 34.90,
+        "image": "produto_14.png",
+        "category": "menino"
+    },
+    {
+        "id": 19,
+        "name": "Macacão de Malha com Estampa Animal",
+        "price": 34.90,
+        "preco_com_promocao": 29.90,
+        "image": "produto_15.png",
+        "category": "bebês"
+    },
+    {
+        "id": 20,
+        "name": "Vestido de Algodão com Babados",
+        "price": 29.90,
+        "preco_com_promocao": 24.90,
+        "image": "produto_16.png",
+        "category": "menina"
+    },
+    {
+        "id": 21,
+        "name": "Conjunto de Camisa Polo e Shorts",
+        "price": 49.90,
+        "preco_com_promocao": 39.90,
+        "image": "produto_17.png",
+        "category": "menino"
+    },
+    {
+        "id": 22,
+        "name": "Macacão de Plush com Pézinho",
+        "price": 39.90,
+        "preco_com_promocao": 34.90,
+        "image": "produto_18.png",
+        "category": "bebês"
+    },
+    {
+        "id": 23,
+        "name": "Vestido de Festa com Saia de Tule",
+        "price": 69.90,
+        "preco_com_promocao": 59.90,
+        "image": "produto_19.png",
+        "category": "menina"
+    },
+    {
+        "id": 24,
+        "name": "Conjunto de Moletom e Calça Jeans",
+        "price": 54.90,
+        "preco_com_promocao": 49.90,
+        "image": "produto_20.png",
+        "category": "menino"
+    },
+    {
+        "id": 25,
+        "name": "Body de Manga Curta com Estampa de Animais",
+        "price": 24.90,
+        "preco_com_promocao": 19.90,
+        "image": "produto_21.png",
+        "category": "bebês"
+    },
+    {
+        "id": 26,
+        "name": "Vestido de Verão com Estampa de Flores",
+        "price": 34.90,
+        "preco_com_promocao": 29.90,
+        "image": "produto_22.png",
+        "category": "menina"
+    },
+    {
+        "id": 27,
+        "name": "Conjunto de Body e Shorts",
+        "price": 39.90,
+        "preco_com_promocao": 34.90,
+        "image": "produto_23.png",
+        "category": "bebês"
+    },
+    {
+        "id": 28,
+        "name": "Camiseta Polo com Listras",
+        "price": 24.90,
+        "preco_com_promocao": 19.90,
+        "image": "produto_24.png",
+        "category": "menino"
+    },
+    {
+        "id": 29,
+        "name": "Macacão de Plush com Capuz",
+        "price": 59.90,
+        "preco_com_promocao": 49.90,
+        "image": "produto_25.png",
+        "category": "bebês"
+    },
+    {
+        "id": 30,
+        "name": "Vestido de Festa com Detalhes em Renda",
+        "price": 79.90,
+        "preco_com_promocao": 69.90,
+        "image": "produto_26.png",
+        "category": "menina"
+    }
+]
